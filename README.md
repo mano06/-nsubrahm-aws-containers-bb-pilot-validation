@@ -1,1 +1,0 @@
-aws-containers-bb-validation
